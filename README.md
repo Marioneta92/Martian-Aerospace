@@ -1,4 +1,4 @@
-# Martian-Aerospace
+# Martian-Aerospace Coin
 
 ![image](https://user-images.githubusercontent.com/114365472/227381716-4f4c32e0-5368-4475-86a2-7c4cb88bf387.png)
 Background
